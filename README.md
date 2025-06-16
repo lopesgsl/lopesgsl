@@ -1,7 +1,7 @@
 # Olá, eu sou Gustavo Lopes 👋
 
 ### 👨‍💻 Sobre Mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas (P2) apaixonado por tecnologia e programação. Atualmente estou focado em aprender mais sobre [mencione uma tecnologia, ex: desenvolvimento em nuvem com AWS]. Busco oportunidades para aplicar meus conhecimentos e colaborar em projetos interessantes.
+Sou um estudante de Análise e Desenvolvimento de Sistemas (P2) apaixonado por tecnologia e programação. Busco oportunidades para aplicar meus conhecimentos e colaborar em projetos interessantes.
 
 ---
 
