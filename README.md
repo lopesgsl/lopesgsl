@@ -9,7 +9,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas (P2) apaixonado por t
 
 - **Linguagens:** C, JavaScript, Python, SQL
 - **Ferramentas:** Git, VS Code, Linux, Docker
-- **Estudando:** [mencione uma tecnologia, ex: Node.js, React, ou C#]
+- **Estudando:** Node.js, React e C#
 
 ---
 
