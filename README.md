@@ -7,9 +7,9 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas (P2) apaixonado por t
 
 ### 🚀 Habilidades Técnicas
 
-- **Linguagens:** C, JavaScript, Python, SQL
+- **Linguagens:** C, JavaScript, Python, Java, SQL
 - **Ferramentas:** Git, VS Code, Linux, Docker
-- **Estudando:** Node.js, React e C#
+- **Estudando:** Node.js, React, Angular e C#
 
 ---
 
