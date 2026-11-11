@@ -1,7 +1,7 @@
 # Olá, eu sou Gustavo Lopes 👋
 
 ### 👨‍💻 Sobre Mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas (P2) apaixonado por tecnologia e programação. Busco oportunidades para aplicar meus conhecimentos e colaborar em projetos interessantes.
+Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação. Busco oportunidades para aplicar meus conhecimentos e colaborar em projetos interessantes.
 
 ---
 
@@ -15,7 +15,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas (P2) apaixonado por t
 
 ### 📫 Como me Encontrar
 - **LinkedIn:** [Gustavo Lopes](https://www.linkedin.com/in/gustavo-lopes-394848237/)
-- **Email:** lopessilvagustavo20@gmail.com
+- **Email:** gustavo.dev.automation@gmail.com
 
 ---
 
