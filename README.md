@@ -1,4 +1,4 @@
-# Olá, eu sou Gustavo Lopes 👋
+# Olá, me chamo Gustavo Lopes 👋
 
 ### 👨‍💻 Sobre Mim
 Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e programação. Busco oportunidades para aplicar meus conhecimentos e colaborar em projetos interessantes.
